@@ -1,0 +1,8 @@
+.btn {
+ display: flex;
+ justify-content: center;
+padding: 5%;
+ }
+ button {
+  margin: 10px;
+ }
